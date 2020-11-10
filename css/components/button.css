@@ -1,0 +1,237 @@
+.btn-purple {
+	color: #809ECB;
+	font-size: 25px;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: 'Open',sans-serif;
+	padding: 10px;
+	font-weight: bold; 
+}
+
+.btn-purple:hover {
+	color: #809ECB;
+	font-size: 25px;
+	letter-spacing: 2px;
+	text-align: center;
+	font-family: 'Open',sans-serif;
+	padding: 10px;
+	font-weight: bold; 
+}
+
+.btn-transparent {
+	color: black;
+	padding: 34px;
+	text-align: center;
+	font-size: 18px;
+	font-weight: normal; 
+	letter-spacing: 2px;
+	font-weight: bold; 
+}
+
+.btn-transparent:hover {
+	color: black;
+	text-align: center;
+	font-size: 20px;
+	font-weight: normal; 
+}
+
+
+.btn-blue {
+	background-color: #809ECB;
+	color: white;
+	padding: 10px 15px;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold; 
+	display: block;
+  	margin-left :350px;
+  	margin-right: 350px;
+  	margin-top: 100px;
+  }
+
+.btn-blue:hover {
+	background-color: white;
+	color: #809ECB;
+	padding: 10px 15px;
+	text-align: center;
+	font-size: 16px;
+	font-weight: bold; 
+	display: block;
+  	margin : auto;
+  	margin-left :350px;
+  	margin-right: 350px;
+  	margin-top: 100px;
+}
+
+.btn-white {
+	background-color: rgb(245,245,245);
+	flex-grow: 1;
+	font-weight: bold; 
+	font-color: #809ECB;
+	padding: center;
+	font-size: 14px;
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 10px;
+	flex-basis: 270px;
+	flex-grow: 1;
+	margin: 5px;
+	text-align: center;
+}
+
+.btn-white:hover {
+	background-color: rgb(245,245,245);
+	color: #809ECB;
+	flex-grow: 1;
+	padding: center;
+	font-size: 18px;
+	font-style: bold;
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 10px;
+	flex-basis: 270px;
+	flex-grow: 1;
+	margin: 5px;
+	text-align: center;
+}
+
+.btn-black { 
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 14px;
+	font-weight: bold; 
+	letter-spacing: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 110px;
+}
+
+.btn-black:hover{ 
+	background-color: black;
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	font-weight: bold; 
+	letter-spacing: 2px;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+	margin: 110px;
+}
+
+.btn-wb {
+	background: black;
+	color: white;
+	text-align: center;
+	font-size: 15px;
+	padding: 10px;
+	border-radius: 28px;
+	border: 0.1px solid black;
+	letter-spacing: 2px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	margin-bottom: 15px;
+	width: 400px;
+	margin: 10px auto;
+}
+
+.btn-wb:hover {
+	background: black;
+	color: white;
+	text-align: center;
+	font-size: 16px;
+	margin: auto;
+	padding: 10px;
+	border-radius: 28px;
+	border: 0.1px solid black;
+	letter-spacing: 2px;
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+}
+
+.btn-contact {
+	background-color: white;
+	flex-grow: 1;
+	font-weight: bold; 
+	font-color: #809ECB;
+	padding: center;
+	font-size: 14px;
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 10px;
+	flex-basis: 270px;
+	flex-grow: 1;
+	margin: 5px;
+	text-align: center;
+}
+
+.btn-contact:hover {
+	background-color: white;
+	color: #809ECB;
+	flex-grow: 1;
+	padding: center;
+	font-size: 18px;
+	font-style: bold;
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 10px;
+	flex-basis: 270px;
+	flex-grow: 1;
+	margin: 5px;
+	text-align: center;
+}
+
+.btn-desc {
+	background-color: black;
+	flex-grow: 1;
+	font-weight: bold; 
+	color: white;
+	padding: center;
+	font-size: 14px;
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 10px;
+	flex-basis: 270px;
+	flex-grow: 1;
+	margin: 5px;
+	text-align: center;
+	border-radius: 28px;
+	border: 0.1px solid black;
+	letter-spacing: 2px;
+}
+
+.btn-desc:hover {
+	background-color: black;
+	flex-grow: 1;
+	font-weight: bold; 
+	color: white;
+	padding: center;
+	font-size: 16px;
+ 	align-items: center;
+  	justify-content: space-between;
+	padding: 10px;
+	flex-basis: 270px;
+	flex-grow: 1;
+	margin: 5px;
+	text-align: center;
+	border-radius: 28px;
+	border: 0.1px solid black;
+	letter-spacing: 2px;
+}
+
+.btn-buy {
+	background-color: rgb(245,245,245);
+	color: black;
+	font-family: 'Karla', serif;
+	font-size: 12px;
+	letter-spacing: 1px;
+	text-align: left;
+	line-height: 1.5;
+	padding-top: 10px;
+}
